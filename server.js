@@ -21,7 +21,6 @@ http.createServer(function(req,res){
 			res.write(data.toString());
 		}
 		res.end();
-
 	})
 
 }).listen(1234);
