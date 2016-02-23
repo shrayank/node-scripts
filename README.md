@@ -1,2 +1,3 @@
 # node-scripts
-lolzz
+
+Snippets of node js code.
