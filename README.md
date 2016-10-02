@@ -1,3 +1,3 @@
 # node-scripts
 
-Snippets of node js code.
+Snippets of node.js code.
