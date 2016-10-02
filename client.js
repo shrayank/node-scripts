@@ -13,6 +13,7 @@ var callback = function(response){
 	response.on('data',function(val){
 		data+=val;
 	});
+	
 	response.on('end',function(){
 		console.log(data);
 	});
