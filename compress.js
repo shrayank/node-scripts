@@ -11,5 +11,5 @@ fs.stat(FILE+'.gz',function(err,data){
 		console.error(err);
 		return;
 	}
-	console.log("File compressed");
+	console.log("File compressed!");
 })
