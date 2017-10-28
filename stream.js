@@ -9,6 +9,8 @@ stdin.on('data',function(chunk){
 		process.exit();
 	}
 	else
+	{
 		data += chunk.toString("ascii");
+	}	
 	 console.log(chunk.toString());
 });
